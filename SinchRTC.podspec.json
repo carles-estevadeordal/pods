@@ -16,7 +16,7 @@
     "file": "LICENSE.txt"
   },
   "source": {
-    "http": "https://download.sinch.com/ios/5.9.11/SinchRTC-iOS-5.9.11%2b83b2cc37.tar.bz2"
+    "http": "https://evolutive.co/packages/SinchRTC/SinchRTC-iOS-5.9.11%2b83b2cc37.tar.bz2"
   },
   "ios": {
     "vendored_frameworks": "SinchRTC.xcframework"
