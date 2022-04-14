@@ -25,6 +25,12 @@
     "SinchRTC.xcframework",
     "LICENSE.txt"
   ],
+  "subspecs": [
+    {
+      "name": "SinchRTC",
+      "vendored_frameworks": "SinchRTC.xcframework"
+    }
+  ],
   "frameworks": [
     "AudioToolbox",
     "AVFoundation",
