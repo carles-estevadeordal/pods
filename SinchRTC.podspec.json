@@ -22,7 +22,7 @@
     "vendored_frameworks": "SinchRTC.xcframework"
   },
   "preserve_paths": [
-    "Sinch.xcframework",
+    "SinchRTC.xcframework",
     "LICENSE.txt"
   ],
   "frameworks": [
